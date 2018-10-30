@@ -1,1 +1,2 @@
-# Python_Game
+# Rock, Paper, Scissors
+#In my final version of Rock, Paper, Scissors, the user will first be greeted with a welcoming message, after the user has seen the message the user the user will see how many lives they have been given and will then be prompted to pick Rock, Paper or Scissors. Once the player is out of lives they will then be asked to play again. If the user accepts the game restarts, if they decline the game will then exit.
