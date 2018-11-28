@@ -15,4 +15,4 @@ Choose your weapon wisely!
 
 You choose first, then the computer. Good Luck!
 
-Built with Python 3.
+Built With Python 3.
