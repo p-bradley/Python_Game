@@ -1,2 +1,18 @@
 # Rock, Paper, Scissors
-In my final version of Rock, Paper, Scissors, the user will first be greeted with a welcoming message, after the user has seen the message the user the user will see how many lives they have been given and will then be prompted to pick Rock, Paper or Scissors. Once the player is out of lives they will then be asked to play again. If the user accepts the game restarts, if they decline the game will then exit.
+
+Pick your weapon and play the computer - you'll only get a virtual sting if you lose!
+
+Prerequisites: all you need is [Python 3](https://www.python.org/download/releases/3.0)
+
+Clone the project, navigate to the correct directory - <code>cd directory</code> - and run the gamefinal.py file in a Python 3 Termincal for mac/Linux, or Git Bash on Windows.
+
+The rules are the same as the original:
+1. Paper covers Rock
+2. Scissors cuts Paper
+3. Rock smashes Scissors
+
+Choose your weapon wisely!
+
+You choose first, then the computer. Good Luck!
+
+Built with Python 3.
